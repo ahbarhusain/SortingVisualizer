@@ -28,3 +28,5 @@
 ✅ CSS
 
 ✅ Vanilla JavaScript
+
+Hosted on : https://ahbarhusain.github.io/SortingVisualizer/
